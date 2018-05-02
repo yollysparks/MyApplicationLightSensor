@@ -1,0 +1,2 @@
+# MyApplicationLightSensor
+   Light Sensor Android
